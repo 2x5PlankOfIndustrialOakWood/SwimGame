@@ -6,4 +6,6 @@
 
 [node name="player" parent="." instance=ExtResource( 1 )]
 position = Vector2( 233, 395 )
-speed = 500
+speed = 20000
+decaySpeed = 200
+rotSpeed = 5
